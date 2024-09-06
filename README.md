@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Nest.js<br>🎯 Goals: Learn italian and become senior developer</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Nest.js<br>🎯 Goals: Learn italian and become senior developer</p>
 
 ###
 
